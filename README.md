@@ -1,10 +1,10 @@
 # HelloWorld 
 
-Environment: VS 2015, .net 4.5
+Environment: VS 2015, .net 4.5 <br />
 
-Projects: 
-HelloWorldAPI : Web API that returns "Hello World" on get
-HelloWorldAPI.tests : Unit tests to test Web API.
+Projects: <br />
+HelloWorldAPI : Web API that returns "Hello World" on get <br />
+HelloWorldAPI.tests : Unit tests to test Web API. <br />
 HelloWorldConsole : Console App that uses Factory Design Pattern to return correct Platform (according to key "Platform" in App.Config).
 
 
