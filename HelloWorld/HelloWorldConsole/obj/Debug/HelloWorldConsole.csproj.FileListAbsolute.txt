@@ -1,0 +1,12 @@
+c:\users\bhavin.shah\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+c:\users\bhavin.shah\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+c:\users\bhavin.shah\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+c:\users\bhavin.shah\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache
+c:\users\bhavin.shah\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+c:\users\bhavin.shah\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
+C:\bit9prog\dev\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+C:\bit9prog\dev\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+C:\bit9prog\dev\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+C:\bit9prog\dev\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache
+C:\bit9prog\dev\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+C:\bit9prog\dev\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
